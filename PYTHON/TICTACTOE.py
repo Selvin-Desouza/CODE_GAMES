@@ -1,4 +1,5 @@
-#2d array in python
+#TIC TAC TOE GAME IN PYTHON
+#REQUIREMENTS : NUMPY LIBRARY - FOR CREATING ARRAY.
 
 import numpy as np
 i = 0
